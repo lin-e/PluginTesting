@@ -1,0 +1,7 @@
+C:\Users\Admin\Source\Repos\PluginTesting\MainBuild\MainBuild\bin\Debug\MainBuild.exe
+C:\Users\Admin\Source\Repos\PluginTesting\MainBuild\MainBuild\bin\Debug\MainBuild.pdb
+C:\Users\Admin\Source\Repos\PluginTesting\MainBuild\MainBuild\bin\Debug\PluginInterface.dll
+C:\Users\Admin\Source\Repos\PluginTesting\MainBuild\MainBuild\bin\Debug\PluginInterface.pdb
+C:\Users\Admin\Source\Repos\PluginTesting\MainBuild\MainBuild\obj\Debug\MainBuild.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Source\Repos\PluginTesting\MainBuild\MainBuild\obj\Debug\MainBuild.exe
+C:\Users\Admin\Source\Repos\PluginTesting\MainBuild\MainBuild\obj\Debug\MainBuild.pdb
